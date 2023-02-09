@@ -1,1 +1,0 @@
-# Python incluye muchas funciones para la programacion Funcional
